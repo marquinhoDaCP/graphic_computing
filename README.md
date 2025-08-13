@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 4. Execute o programa
 
-- Para executar o arquivo python, execute o seguinte comando para instalar as dependências do projeto:
+- Para executar o arquivo python, execute o seguinte comando para rodar o programa:
 
 ```sh
 py .\main.py
